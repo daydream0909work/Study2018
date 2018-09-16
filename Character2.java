@@ -1,4 +1,4 @@
-public class Character2{
+﻿public class Character2{
 
 	private String name;
 	private int hp;
@@ -13,6 +13,7 @@ public class Character2{
 		this.hit = hit;
 
 	}
+//aaaa
 
 	public static void main(String[] args) {
 		Character2 majyo = new Character2("魔女",200,30,45);
